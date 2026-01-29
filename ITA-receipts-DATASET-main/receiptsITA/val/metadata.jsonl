@@ -1,0 +1,49 @@
+{"file_name": "164.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"ARTE ITALIANA S.R.L.\", \"date\": \"11-06-19\", \"address\": \"VIA DELLA CONCILIAZIONE, 4F 00193 ROMA\", \"total\": \"75.47\"}}"}
+{"file_name": "165.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BAR DELLA PIAZZA\", \"date\": \"09/07/14\", \"address\": \"PIAZZA SAN MARCO - PORTO ROTONDO 07026 OLBIA (OT)\", \"total\": \"36.00\"}}"}
+{"file_name": "166.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"GIOIELLERIA F.VERONESI & FIGLI SRL\", \"date\": \"31-01-2017\", \"address\": \"PIAZZA MAGGIORE 4/A BOLOGNA\", \"total\": \"69.00\"}}"}
+{"file_name": "170.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"AIMS S.N.C.\", \"date\": \"08-05-2019\", \"address\": \"CORSO DI PORTA ROMANA, 80 20122 MILANO (MI)\", \"total\": \"2.00\"}}"}
+{"file_name": "172.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MEXICALI CREMONA\", \"date\": \"25-07-17\", \"address\": \"VIA BERGAMO 19 26100 CREMONA\", \"total\": \"69.00\"}}"}
+{"file_name": "173.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"TRATTORIA LIBERTY\", \"date\": \"21-03-2019\", \"address\": \"VIA OPIFICI N. 14 CREMONA\", \"total\": \"60.00\"}}"}
+{"file_name": "174.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"CHOCABEK. - MAMA S.R.L.\", \"date\": \"27/07/07\", \"address\": \"P.ZZA STRADIVARI, 20 26100 CREMONA - CR -\", \"total\": \"20.00\"}}"}
+{"file_name": "175.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"STELLA MARINA S.A.S.\", \"date\": \"24/09/17\", \"address\": \"VIA G.CESARE 5 BACOLI (NA)\", \"total\": \"60.00\"}}"}
+{"file_name": "176.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PESCHERIA\", \"date\": \"07/03/15\", \"address\": \"VIA SOPRAMMURO NAPOLI\", \"total\": \"20.00\"}}"}
+{"file_name": "177.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PESCHERIA IL KIOSKO SRL\", \"date\": \"28/10/17\", \"address\": \"PIAZZA XXIV MAGGIO MILANO\", \"total\": \"15.00\"}}"}
+{"file_name": "178.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PESCHERIA CALEFATO FRANCESCO\", \"date\": \"09-11-2019\", \"address\": \"VIA S. FERRERO 19/A\", \"total\": \"145.00\"}}"}
+{"file_name": "179.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PESCHERIA SAN GERVASIO\", \"date\": \"18/08/16\", \"address\": \"VIA BELVEDERE 13 D BOLOGNA\", \"total\": \"119.50\"}}"}
+{"file_name": "180.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"AL SANGIOVESE S.R.L.\", \"date\": \"02/11/13\", \"address\": \"VIA PAOLIETTA,12 BOLOGNA\", \"total\": \"152.00\"}}"}
+{"file_name": "181.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"ANTICO COLLE\", \"date\": \"08/11/19\", \"address\": \"PIAZZA CAVOUR N. 10 51011 BUGGIANO (PT)\", \"total\": \"45.00\"}}"}
+{"file_name": "183.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"TOMATO BY CLODIA\", \"date\": \"02 GIU 2018\", \"address\": \"VIA LUNGOMARE ADRIATICO 41 30015 CHIOGGIA\", \"total\": \"71.50\"}}"}
+{"file_name": "184.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DOMUS ESSE EFFE S.A.S.\", \"date\": \"28/02/18\", \"address\": \"VIA GASSINO 8, TORINO\", \"total\": \"69.50\"}}"}
+{"file_name": "185.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"VELA DI SOLEVILLE\", \"date\": \"11-06-2021\", \"address\": \"VIA SALETTO, 22 SALE MARASINO (BS)\", \"total\": \"13.00\"}}"}
+{"file_name": "186.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RISTORANTE PIZZERIA BRAIES\", \"date\": \"12-06-2021\", \"address\": \"VIA BAFILE, 504 30016 JESOLO (VE)\", \"total\": \"69.50\"}}"}
+{"file_name": "187.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"IL CAVALIERE\", \"date\": \"14-12-2017\", \"address\": \"VIA ANGELO MOSSO 8/A 10146 - TORINO\", \"total\": \"18.00\"}}"}
+{"file_name": "188.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"RISTORANTE DI MARIA LUISELLA PINNA\", \"date\": \"19/08/16\", \"address\": \"CORSO VITT. EMANUELE 99 CAGLIARI\", \"total\": \"65.00\"}}"}
+{"file_name": "192.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"CHALET DELLA ROTONDA\", \"date\": \"27-12-2019\", \"address\": \"VIALE ITALIA 136 CAP 57017 LIVORNO LI\", \"total\": \"4.60\"}}"}
+{"file_name": "193.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"TRAMEZZERIA XXV APRILE\", \"date\": \"30-04-2018\", \"address\": \"PIAZZA ROMA 25 CREMONA\", \"total\": \"16.50\"}}"}
+{"file_name": "194.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BUCA DI S.ANTONIO\", \"date\": \"12-09-2019\", \"address\": \"VIA DELLA CERVIA, 1/5 - 55100 LUCCA\", \"total\": \"89.50\"}}"}
+{"file_name": "195.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"100 BISTROT SRLS\", \"date\": \"31-03-2019\", \"address\": \"VIA TUVERI 100 CAGLIARI\", \"total\": \"96.00\"}}"}
+{"file_name": "196.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"SPECKSTUBE\", \"date\": \"08/06/2019\", \"address\": \"LOC. CONCI - CENTA S. NICOL0' ALTOPIANO DELLA VIGOLANA (TN)\", \"total\": \"59.30\"}}"}
+{"file_name": "197.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BAITA TONDA\", \"date\": \"28-07-2019\", \"address\": \"LOC.DOSSO LARICI - CAVALESE - TN\", \"total\": \"33.20\"}}"}
+{"file_name": "198.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MOLTO BUONO S.R.L.\", \"date\": \"08-02-19\", \"address\": \"VICOLO DEL FALCONE 13/A 40124, BOLOGNA, BO\", \"total\": \"20.00\"}}"}
+{"file_name": "200.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"GASTRONOMIA IL GIGLIO\", \"date\": \"02-12-18\", \"address\": \"VIA LUIGI LANZI, 10 - FIRENZE\", \"total\": \"0.54\"}}"}
+{"file_name": "201.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PIZZERIA ACQUA E FARINA\", \"date\": \"11/09/15\", \"address\": \"VIA BROLETTO 11 MANTOVA\", \"total\": \"43.00\"}}"}
+{"file_name": "203.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DADADA RISTORAZIONE S.R.L.\", \"date\": \"06/10/22\", \"address\": \"VIA DELLA MAGLIANA 210-00146 ROMA\", \"total\": \"47.30\"}}"}
+{"file_name": "207.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"IL GIARDINETTO SNC\", \"date\": \"21-06-2019\", \"address\": \"PIAZZA XX SETTEMBRE 12 56048 VOLTERRA PISA\", \"total\": \"62.00\"}}"}
+{"file_name": "208.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LA FILETTERIA SRL\", \"date\": \"7 AGO 2019\", \"address\": \"VIA RIPA DI PORTA TICINESE 107\", \"total\": \"47.50\"}}"}
+{"file_name": "210.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MARCHIO SARDO SRL\", \"date\": \"18/05/16\", \"address\": \"VIA LAMARMORA 62 CAGLIARI\", \"total\": \"26.00\"}}"}
+{"file_name": "211.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"GELATERIA SLAP\", \"date\": \"21/08/17\", \"address\": \"VIALE GALLIANO N. 10 57023 CECINA (LI)\", \"total\": \"4.00\"}}"}
+{"file_name": "213.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"DA EMY\", \"date\": \"12/05/18\", \"address\": \"VIA DANTE 180 RICCIONE -RN-\", \"total\": \"0.00\"}}"}
+{"file_name": "214.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"LA BAITA\", \"date\": \"15-08-2019\", \"address\": \"VIA CALCARE 48 BICCARI FG\", \"total\": \"89.00\"}}"}
+{"file_name": "215.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"GRAINS\", \"date\": \"16/10/17\", \"address\": \"VIA SCALETTE S.CHIARA, 15 CAGLIARI\", \"total\": \"27.00\"}}"}
+{"file_name": "216.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"O CHI'O A CA'TOA\", \"date\": \"02/02/18\", \"address\": \"VIA D.PAITA N.6 FEZZANO DI POTOVENERE\", \"total\": \"140.00\"}}"}
+{"file_name": "217.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BAR ROSA SAS\", \"date\": \"08/04/13\", \"address\": \"S.CROCE 1099VE\", \"total\": \"2.20\"}}"}
+{"file_name": "218.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"PIZZA FANTASIA\", \"date\": \"23/11/16\", \"address\": \"SANTA CROCE 284 VENEZIA\", \"total\": \"4.00\"}}"}
+{"file_name": "219.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"NEW DPM SRL\", \"date\": \"20-05-2023\", \"address\": \"VIA PACINOTTI, 11 CAGLIARI\", \"total\": \"23.00\"}}"}
+{"file_name": "220.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"SUZAKU SUSHI BAR\", \"date\": \"21-06-2019\", \"address\": \"VIA SAN BENEDETTO 12/C\", \"total\": \"45.80\"}}"}
+{"file_name": "221.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"MINA 2 S.R.L.\", \"date\": \"25-04-2017\", \"address\": \"VIALE MONTE NERO 55 20135 MILANO\", \"total\": \"39.30\"}}"}
+{"file_name": "222.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"NONNA PAPERA S.R.L.\", \"date\": \"15/09/13\", \"address\": \"VIA PIERMARINI, 4 MILANO\", \"total\": \"100.00\"}}"}
+{"file_name": "224.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"BAR DEI OSEI\", \"date\": \"18/09/13\", \"address\": \"PIAZZA DEI FRUTTI 1 PADOVA\", \"total\": \"6.50\"}}"}
+{"file_name": "225.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"ROSTICCERIA REVELANT SNC\", \"date\": \"31/12/19\", \"address\": \"VIA MAZZINI 7 16035 RAPALLO (GE)\", \"total\": \"44.14\"}}"}
+{"file_name": "226.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"VERONA ANTICA SAS\", \"date\": \"18/05/16\", \"address\": \"VIA SOTTORIVA 10 A VERONA\", \"total\": \"42.00\"}}"}
+{"file_name": "227.jpg", "ground_truth": "{\"gt_parse\": {\"company\": \"IKEA ITALIA RETAIL S.R.L.\", \"date\": \"08/10/11\", \"address\": \"VIA E. BERLINGUER N. 2 AFRAGOLA\", \"total\": \"19.11\"}}"}
+{"file_name": "228.jpeg", "ground_truth": "{\"gt_parse\": {\"company\": \"MICRELEC ITALIA SRL\", \"date\": \"10-12-2009\", \"address\": \"VIA POZZONE,5 20121 MILANO\", \"total\": \"33.38\"}}"}

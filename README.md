@@ -75,13 +75,21 @@ Il progetto viene sviluppato per cicli brevi, con focus su funzionalità funzion
 Per rigenerare lo scaffolding di base (struttura cartelle + file minimi):
 
 ```bash
-bash scripts/scaffold.sh
+# Opzionale: crea e attiva un ambiente virtuale
+python -m venv .venv
+source .venv/bin/activate
 
----
+# Installa le dipendenze
+pip install -r requirements.txt
+```
 
 ## Avvio del progetto
 
-(Istruzioni verranno aggiunte dopo il setup iniziale.)
+Per avviare il progetto, segui le istruzioni dettagliate in [LOCAL_RUN.md](./LOCAL_RUN.md).
+
+In sintesi:
+1. Avvia l'API: `uvicorn apps.api.main:app --reload`
+2. Avvia la UI: `streamlit run apps/ui/app.py`
 
 ---
 
