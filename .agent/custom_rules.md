@@ -13,3 +13,11 @@ Questo file contiene le linee guida per lo sviluppo del progetto Spesometro. Ogn
 
 ## 3. Workflow di Feedback
 - Dopo ogni modifica significativa, riassumi brevemente cosa è stato fatto dal punto di vista dell'apprendimento (es. "In questo passaggio abbiamo imparato come collegare due tabelle del database").
+
+## 4. Gestione della Documentazione
+- **Centralizzazione**: Tutta la documentazione tecnica deve risiedere nella cartella `docs/`. Il file `README.md` in root funge da indice generale.
+- **Aggiornamento Obbligatorio**: Ogni modifica sostanziale al codice (es. nuove API, tabelle DB, logiche OCR) deve essere accompagnata dall'aggiornamento dei relativi file in `docs/`.
+- **Pianificazione e Riuso**: 
+    - Prima di creare un NUOVO file di documentazione, l'AI deve verificare se l'informazione può essere integrata in un file esistente.
+    - Per ogni nuovo documento proposto, l'AI deve chiedere conferma esplicita all'utente descrivendone scopo e contenuto.
+    - Evitare la creazione di file duplicati o frammentati; puntare a una documentazione organica e strutturata.

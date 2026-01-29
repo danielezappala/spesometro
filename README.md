@@ -8,92 +8,37 @@ L’obiettivo principale non è l’automazione perfetta, ma **ottenere dati aff
 
 ---
 
-## Obiettivo dell’MVP
+## 📚 Documentazione Tecnica
 
-> Caricare una foto di scontrino, ottenere la lista prodotti (nome, quantità, prezzo), correggerla manualmente e visualizzare la **percentuale di spesa per categoria**.
+Abbiamo organizzato la documentazione in sezioni specifiche nella cartella `docs/`:
 
----
-
-## Funzionalità incluse (MVP)
-
-* Caricamento di una **foto dello scontrino**
-* Estrazione di un **elenco prodotti** (nome, quantità, prezzo)
-* **Correzione manuale** dei prodotti:
-
-  * modifica
-  * eliminazione
-  * aggiunta
-* Assegnazione a **categorie fisse predefinite**
-* Aggregazione di più scontrini
-* Statistica principale:
-
-  * **percentuale di spesa per categoria**
+1.  🚀 **[Guida all'Installazione](./docs/INSTALLAZIONE.md)**: Come configurare l'ambiente e avviare i server.
+2.  🗄️ **[Struttura Database](./docs/DATABASE.md)**: Dettagli sulle tabelle e le relazioni dei dati.
+3.  🌿 **[Workflow Git](./docs/GIT_WORKFLOW.md)**: Come collaborare tra più sviluppatori usando i branch.
 
 ---
 
-## Fuori scope (per ora)
+## 🚧 Stato del progetto (MVP)
 
-* Multi‑utente / login
-* Categorie personalizzabili
-* Analisi avanzate o predittive
-* UI raffinata
+Il progetto è attualmente in fase di sviluppo attivo sull'integrazione Backend-Frontend.
 
----
-
-## Stack tecnologico
-
-* **Python**
-* **FastAPI** – API backend
-* **SQLite** – persistenza locale dei dati
-* **Streamlit** – interfaccia utente minimale
-
-Lo stack è volutamente semplice per favorire:
-
-* rapidità di sviluppo
-* facilità di apprendimento
-* iterazioni frequenti
-
----
-
-## Stato del progetto
-
-🚧 **MVP in sviluppo**
-Il progetto viene sviluppato per cicli brevi, con focus su funzionalità funzionanti prima dell’ottimizzazione.
+### Funzionalità Core (In Sviluppo)
+*   [x] Scaffolding Progetto (FastAPI + Streamlit)
+*   [x] Database SQLite e Modelli Dati
+*   [x] API per creazione e lettura scontrini
+*   [ ] Caricamento immagini scontrini
+*   [ ] Integrazione Motore OCR/AI per estrazione prodotti
+*   [ ] Dashboard statistiche Streamlit
 
 ---
 
 ## Metodo di lavoro
-
 * Cicli brevi (1–2 settimane)
 * Prima funziona, poi si migliora
 * Refactoring solo dopo aver dimostrato valore
-* Uso di AI consentito, con responsabilità di comprensione del codice
-
----
-
-## Setup rapido (scaffolding)
-Per rigenerare lo scaffolding di base (struttura cartelle + file minimi):
-
-```bash
-# Opzionale: crea e attiva un ambiente virtuale
-python -m venv .venv
-source .venv/bin/activate
-
-# Installa le dipendenze
-pip install -r requirements.txt
-```
-
-## Avvio del progetto
-
-Per avviare il progetto, segui le istruzioni dettagliate in [LOCAL_RUN.md](./LOCAL_RUN.md).
-
-In sintesi:
-1. Avvia l'API: `uvicorn apps.api.main:app --reload`
-2. Avvia la UI: `streamlit run apps/ui/app.py`
+* Uso di AI consentito seguendo le regole in `.agent/custom_rules.md`
 
 ---
 
 ## Licenza
-
 MIT
-
